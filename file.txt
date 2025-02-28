@@ -1,1 +1,2 @@
 Hello World
+This is text from the branch: my-new-branch
